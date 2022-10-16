@@ -1,0 +1,45 @@
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll
+C:\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\ref\bytebank.dll
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\Users\win\Desktop\Gugu ❤\OrientaçõesAObjetosCSharp\bytebank\obj\Debug\net6.0\ref\bytebank.dll
