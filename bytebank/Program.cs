@@ -53,8 +53,34 @@ Console.WriteLine("Boas Vindas ao seu banco, ByteBank!");
 
 //Console.WriteLine(conta2.titular.nome);
 
-ContaCorrente conta3 = new ContaCorrente();
-conta3.SetSaldo(-10);
-Console.WriteLine(conta3.GetSaldo());
+//ContaCorrente conta3 = new ContaCorrente();
+//conta3.Numero_agencia = 18;
+//conta3.SetSaldo(-10);
+//conta3.Conta = "1011-H"; 
+//Console.WriteLine(conta3.GetSaldo());
+//Console.WriteLine(conta3.Numero_agencia);
+//Console.WriteLine(conta3.Conta);
+
+
+
+
+
+
+////eu não usei nenhum set acima
+
+
+//ContaCorrente conta4 = new ContaCorrente(18, "1010-X");
+//conta4.SetSaldo(500);
+//conta4.Titular = new Cliente();
+
+//Console.WriteLine(conta4.GetSaldo());
+//Console.WriteLine(conta4.Numero_agencia);
+
+ContaCorrente conta5 = new ContaCorrente(283, "1234-X");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+ContaCorrente conta6 = new ContaCorrente(284, "9874-Z");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+ContaCorrente conta7 = new ContaCorrente(285, "1111-Z");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
 
 Console.ReadKey();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\Desafio\\Desafio.csproj": {}
+    "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\Desafio\\Desafio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\Desafio\\Desafio.csproj": {
+    "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\Desafio\\Desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\Desafio\\Desafio.csproj",
+        "projectUniqueName": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\Desafio\\Desafio.csproj",
         "projectName": "Desafio",
-        "projectPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\Desafio\\Desafio.csproj",
+        "projectPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\Desafio\\Desafio.csproj",
         "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\Desafio\\obj\\",
+        "outputPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\Desafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",

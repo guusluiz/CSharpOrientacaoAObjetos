@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\bytebank\\bytebank.csproj",
+      "projectUniqueName": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\bytebank\\bytebank.csproj",
       "projectName": "bytebank",
-      "projectPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\bytebank\\bytebank.csproj",
+      "projectPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\bytebank\\bytebank.csproj",
       "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientaçõesAObjetosCSharp\\bytebank\\obj\\",
+      "outputPath": "C:\\Users\\win\\Desktop\\Gugu ❤\\OrientacoesAObjetos\\bytebank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
