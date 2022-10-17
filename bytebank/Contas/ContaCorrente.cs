@@ -9,7 +9,7 @@ namespace bytebank.Contas
         public Cliente Titular { get; set; }
         //private string conta;
         public string Conta { get; set; }
-
+        //// PARA QUE SERVE ESSE GET SET ACIMA
         private int numero_agencia;
 
         public int Numero_agencia

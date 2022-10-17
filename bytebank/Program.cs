@@ -64,9 +64,7 @@ Console.WriteLine("Boas Vindas ao seu banco, ByteBank!");
 
 
 
-
-
-////eu não usei nenhum set acima
+////EU NÃO USEI O GET E SET ACIMA
 
 
 //ContaCorrente conta4 = new ContaCorrente(18, "1010-X");
